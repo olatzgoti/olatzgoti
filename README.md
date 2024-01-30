@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @olatzgoti
 - 👀 I’m interested in programming, arts and science
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and English C1 level
 - 💞️ Backend and MySQL
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me https://www.linkedin.com/in/olatzgoti/
+- 😄 Pronouns: she, her
 - ⚡ Fun fact: ...
 
 <!---
