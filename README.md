@@ -23,11 +23,7 @@
 
 /*
 ## <samp> projects </samp>
-[![ARTICIPE React Social Network Project](https://github-readme-stats.vercel.app/api/pin/?username=VeroPolegre&repo=Articipe-SocialNetwork_React_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/VeroPolegre/Articipe-SocialNetwork_React_Project)
-[![AETHER React E-Commerce Project](https://github-readme-stats.vercel.app/api/pin/?username=VeroPolegre&repo=Aether-E-Commerce_React_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/VeroPolegre/Aether-E-Commerce_React_Project)
-[![AETHER MySQL && Sequelize Backend Project](https://github-readme-stats.vercel.app/api/pin/?username=VeroPolegre&repo=Aether-E-Commerce_Backend_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/VeroPolegre/Aether-E-Commerce_Backend_Project)
-[![HUNTA Mongo && Mongoose Backend Project](https://github-readme-stats.vercel.app/api/pin/?username=VeroPolegre&repo=SocialNetwork_Backend_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/VeroPolegre/SocialNetwork_Backend_Project)
-*/
+
 
 ## <samp> stats </samp>
 
