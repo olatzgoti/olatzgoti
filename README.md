@@ -36,7 +36,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-
+<p align="center">
+<a> 
+  <a href="https://github.com/olatzgoti"><img src="https://github-readme-streak-stats.herokuapp.com/?user=olatzgoti&theme=radical&border=7F3FBF&background=0D1117" alt="olatzgoti's GitHub streak"/></a>
+  <br/>
+</a>
 
 
 
