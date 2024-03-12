@@ -52,17 +52,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+<hr/>
+<p align="center">
+  <a href="https://github.com/olatzgoti?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
 <p align="center">
 <a> 
   <a href="https://github.com/olatzgoti"><img src="https://github-readme-streak-stats.herokuapp.com/?user=olatzgoti&theme=radical&border=7F3FBF&background=0D1117" alt="olatzgoti's GitHub streak"/></a>
   <br/>
 </a>
 
-
-<hr/>
-<p align="center">
-  <a href="https://github.com/olatzgoti?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 <hr/>
 <br/>
@@ -74,11 +74,6 @@
   </a>
 </p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olatzgoti&show_icons=true&locale=en&layout=compact" alt="olatzgoti" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olatzgoti&show_icons=true&locale=en" alt="olatzgoti" /></p>
 
 
 
