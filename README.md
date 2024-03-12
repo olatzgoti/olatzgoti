@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olatzgoti&label=Profile%20views&color=0e75b6&style=flat" alt="olatzgoti" /> </p>
 
-- 🔭 I’m currently working on **a front Social Media project**
+- 🔭 I’m currently working on **a Front Social Media project**
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **backend projects**
+- 👯 I’m looking to collaborate on **Backend projects**
 
 - 🤝 I’m looking for help with **docker and kubernetes**
 
