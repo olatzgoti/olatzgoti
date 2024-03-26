@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olatzgoti&label=Profile%20views&color=0e75b6&style=flat" alt="olatzgoti" /> </p>
 
-- 🔭 I’m currently working on **a Front Social Media project**
+- 🔭 I’m currently working on **a job search website**
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **Backend projects**
 - 📫 How to reach me **gotiolatz@gmail.com**
