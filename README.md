@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a job search website**
 - 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **Backend projects**
+- 👯 I’m looking to collaborate on **Backend projects with Node.js and MySQL or PostgreSQL**
 - 📫 How to reach me **gotiolatz@gmail.com**
 
 
