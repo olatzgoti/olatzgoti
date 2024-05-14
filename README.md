@@ -52,9 +52,9 @@
 <hr/>
 
 ## projects
-[![Spcial Media Project](https://github-readme-stats.vercel.app/api/pin/?username=olatzgoti&repo=SocialMedia&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/olatzgoti/SocialMedia)
+[![Social Media Project](https://github-readme-stats.vercel.app/api/pin/?username=olatzgoti&repo=SocialMedia&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/olatzgoti/SocialMedia)
 
-[![Spcial Media Project](https://github-readme-stats.vercel.app/api/pin/?username=olatzgoti&repo=SocialMedia&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/olatzgoti/SocialMedia_React_MongoDB)
+[![Social Media Project](https://github-readme-stats.vercel.app/api/pin/?username=olatzgoti&repo=SocialMedia_React_MongoDB&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/olatzgoti/SocialMedia_React_MongoDB)
 
 (https://git@github.com/AdrikLarreategui/Desafio-BBK.git)
 
