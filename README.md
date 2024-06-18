@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olatzgoti&label=Profile%20views&color=0e75b6&style=flat" alt="olatzgoti" /> </p>
 
 
-- 🔭 I’m currently working on **a acupuncture centre project**
 - 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **Backend projects with Node.js and MySQL or PostgreSQL**
 - 📫 How to reach me **gotiolatz@gmail.com**
