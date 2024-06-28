@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently learning **Python**
-- 👯 I’m looking to collaborate on **Backend projects with Node.js and MySQL or PostgreSQL**
+- 👯 I’m looking to collaborate on **Backend projects with Node.js and Python**
 - 📫 How to reach me **gotiolatz@gmail.com**
 
 
