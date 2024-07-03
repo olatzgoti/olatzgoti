@@ -50,10 +50,6 @@
 
 <hr/>
 
-<h3 align="left"> Tools:</h3>
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 
 ## projects
 [![Social Media Project](https://github-readme-stats.vercel.app/api/pin/?username=olatzgoti&repo=SocialMedia&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/olatzgoti/SocialMedia)
