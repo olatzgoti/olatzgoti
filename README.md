@@ -5,8 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olatzgoti&label=Profile%20views&color=0e75b6&style=flat" alt="olatzgoti" /> </p>
 
 
-- 🌱 I’m currently learning **Python**
-- 👯 I’m looking to collaborate on **Backend projects with Node.js and Python**
+- 🌱 I’m currently working with **Angular and TypeScript**
+  
+- 👯 I’m looking to colaborate on **Backend projects with Node.js and Python**
+  
 - 📫 How to reach me **gotiolatz@gmail.com**
 
 
