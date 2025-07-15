@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, It's Olatz Goti  </h1>
-<h3 align="center">A passionate junior developer from Bilbao</h3>
+<h1 align="center"> Hi 👋, It's Olatz Goti  </h1>
+<h2 align="center"> A passionate junior developer from Bilbao </h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olatzgoti&label=Profile%20views&color=0e75b6&style=flat" alt="olatzgoti" /> </p>
 
+<h2 align="center">About me</h2>
 
 - 🌱 I’m currently working with **Angular and TypeScript**
   
