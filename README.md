@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, It's Olatz Goti 🍪 </h1>
+<h1 align="center">Hi 👋, It's Olatz Goti  </h1>
 <h3 align="center">A passionate junior developer from Bilbao</h3>
 
 
