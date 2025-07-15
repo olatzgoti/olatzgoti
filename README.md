@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olatzgoti&label=Profile%20views&color=0e75b6&style=flat" alt="olatzgoti" /> </p>
 
-<h2 align="center">About me</h2>
+<h2 align="left">About me</h2>
 
 - 🌱 I’m currently working with **Angular and TypeScript**
   
