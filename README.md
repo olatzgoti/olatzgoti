@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently working with **Angular and TypeScript**
   
-- 👯 I’m looking to colaborate on **Backend projects with Node.js and Python**
-  
 - 📫 How to reach me **gotiolatz@gmail.com**
 
 
