@@ -48,14 +48,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 <hr/>
 
 
-## projects
+## Projects
+
 [![Social Media Project Back](https://github-readme-stats.vercel.app/api/pin/?username=olatzgoti&repo=SocialMedia&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/olatzgoti/SocialMedia)
 
 [![Social Media Project Front](https://github-readme-stats.vercel.app/api/pin/?username=olatzgoti&repo=SocialMedia_React_MongoDB&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/olatzgoti/SocialMedia_React_MongoDB)
